@@ -44,6 +44,12 @@ html {
     right: 20px;
 }
 
+/* clients img  */
+.fixed-client-img {
+    width: 25%;
+    height: 45%;
+}
+
 @media screen and (max-width: 767.99px) {
     .margin-top {
         margin-top: 50px;
